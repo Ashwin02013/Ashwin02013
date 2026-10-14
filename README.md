@@ -9,7 +9,6 @@
 ## 🔭 What I'm working on
 
 - 🏋️ **Hawk Fitness Studio** — multi-branch gym management platform (Spring Boot + React + MySQL), now being migrated to a metadata-driven microservices architecture using the strangler pattern
-- 🎬 **StreamVault** — Netflix-style video streaming platform on AWS (EC2, S3, RDS, Cognito, CloudFront)
 - ☁️ Going deeper into cloud infrastructure: OpenStack, CloudStack, Ceph, Docker networking
 
 ## 🧰 Tech stack
